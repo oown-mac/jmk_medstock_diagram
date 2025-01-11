@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2000" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3937" pageHeight="3937" math="0" shadow="0">
+    <mxGraphModel dx="667" dy="335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3937" pageHeight="3937" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -25,15 +25,15 @@
         <mxCell id="w91RFXMXkyerHTZb2JvK-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-8" target="w91RFXMXkyerHTZb2JvK-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-11" value="ผ่าน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="w91RFXMXkyerHTZb2JvK-18">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-11" value="ผ่าน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="w91RFXMXkyerHTZb2JvK-18" vertex="1" connectable="0">
           <mxGeometry x="-0.4664" y="1" relative="1" as="geometry">
             <mxPoint x="-1" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-8" target="Gq7pANQXskhUeCgIyRuJ-8">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-8" target="Gq7pANQXskhUeCgIyRuJ-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-10" value="ไม่ผ่าน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Gq7pANQXskhUeCgIyRuJ-9">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-10" value="ไม่ผ่าน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="Gq7pANQXskhUeCgIyRuJ-9" vertex="1" connectable="0">
           <mxGeometry x="-0.0209" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -50,15 +50,15 @@
         <mxCell id="w91RFXMXkyerHTZb2JvK-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-10" target="w91RFXMXkyerHTZb2JvK-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-12" value="มีอุปกรณ์" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="w91RFXMXkyerHTZb2JvK-20">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-12" value="มีอุปกรณ์" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="w91RFXMXkyerHTZb2JvK-20" vertex="1" connectable="0">
           <mxGeometry x="-0.2067" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-10" target="Gq7pANQXskhUeCgIyRuJ-13">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-10" target="Gq7pANQXskhUeCgIyRuJ-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-16" value="ไม่มีอุปกรณ์" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Gq7pANQXskhUeCgIyRuJ-14">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-16" value="ไม่มีอุปกรณ์" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="Gq7pANQXskhUeCgIyRuJ-14" vertex="1" connectable="0">
           <mxGeometry x="-0.0784" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -87,59 +87,59 @@
         <mxCell id="w91RFXMXkyerHTZb2JvK-23" value="กรณีที่ 1 ขั้นตอน &quot;การยืม&quot; อุปกรณ์กับ&lt;br&gt;ศูนย์กายอุปกรณ์ทางการแพทย์ รพ.สต จอมหมอกแก้ว" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="152.49" y="25" width="310" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-0" value="กรณีที่ 2 ขั้นตอน &quot;การคืน&quot; อุปกรณ์กับ&lt;br&gt;ศูนย์กายอุปกรณ์ทางการแพทย์ รพ.สต จอมหมอกแก้ว" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-0" value="กรณีที่ 2 ขั้นตอน &quot;การคืน&quot; อุปกรณ์กับ&lt;br&gt;ศูนย์กายอุปกรณ์ทางการแพทย์ รพ.สต จอมหมอกแก้ว" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1180" y="50" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gq7pANQXskhUeCgIyRuJ-1" target="Gq7pANQXskhUeCgIyRuJ-3">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gq7pANQXskhUeCgIyRuJ-1" target="Gq7pANQXskhUeCgIyRuJ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;เริ่ม&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;เริ่ม&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1272.49" y="120" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gq7pANQXskhUeCgIyRuJ-3" target="Gq7pANQXskhUeCgIyRuJ-4">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gq7pANQXskhUeCgIyRuJ-3" target="Gq7pANQXskhUeCgIyRuJ-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-3" value="เมื่อครบกำหนดระยะเวลาการยืมอุปกรณ์ 3 เดือน ผู้ยืมต้องส่งคืนอุปกรณ์ให้แก่&lt;br&gt;เจ้าหน้าที่ตามที่ได้นัดหมายไว้" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-3" value="เมื่อครบกำหนดระยะเวลาการยืมอุปกรณ์ 3 เดือน ผู้ยืมต้องส่งคืนอุปกรณ์ให้แก่&lt;br&gt;เจ้าหน้าที่ตามที่ได้นัดหมายไว้" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1186.56" y="205" width="266.88" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gq7pANQXskhUeCgIyRuJ-4" target="Gq7pANQXskhUeCgIyRuJ-7">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gq7pANQXskhUeCgIyRuJ-4" target="Gq7pANQXskhUeCgIyRuJ-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-20" value="อุปกรณ์ชำรุด" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Gq7pANQXskhUeCgIyRuJ-19">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-20" value="อุปกรณ์ชำรุด" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="Gq7pANQXskhUeCgIyRuJ-19" vertex="1" connectable="0">
           <mxGeometry x="-0.0887" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gq7pANQXskhUeCgIyRuJ-4" target="Gq7pANQXskhUeCgIyRuJ-22">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gq7pANQXskhUeCgIyRuJ-4" target="Gq7pANQXskhUeCgIyRuJ-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-24" value="อุปกรณ์สมบูรณ์" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Gq7pANQXskhUeCgIyRuJ-23">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-24" value="อุปกรณ์สมบูรณ์" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="Gq7pANQXskhUeCgIyRuJ-23" vertex="1" connectable="0">
           <mxGeometry x="-0.324" relative="1" as="geometry">
             <mxPoint y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-4" value="เจ้าหน้าที่ตรวจสอบอุปกรณ์&lt;br&gt;ก่อนเก็บเข้าศูนย์" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-4" value="เจ้าหน้าที่ตรวจสอบอุปกรณ์&lt;br&gt;ก่อนเก็บเข้าศูนย์" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1203.1200000000001" y="322.5" width="233.76" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-7" value="เจ้าหน้าที่ตรวจสอบความเสียหาย&lt;br&gt;จดบันทึกและแจ้งผู้ยืม&lt;br&gt;ถึงความเสียหายที่เกิดขึ้น (*)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-7" value="เจ้าหน้าที่ตรวจสอบความเสียหาย&lt;br&gt;จดบันทึกและแจ้งผู้ยืม&lt;br&gt;ถึงความเสียหายที่เกิดขึ้น (*)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1570" y="338.75" width="240" height="67.5" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;แนะนำวิธีการฟื้นฟูที่เหมาะสมแก่สภาพผู้ป่วยไปฝึกกายภาพด้วยตนเองที่บ้าน&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;จากนั้นทำการติดตามเพื่อประเมินซ้ำ&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="422.5" width="280" height="125" as="geometry" />
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;เจ้าหน้าที่แนะนำวิธีการฟื้นฟูที่เหมาะสมแก่สภาพผู้ป่วยไปฝึกกายภาพด้วยตนเองที่บ้าน&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;จากนั้นทำการติดตามเพื่อประเมินซ้ำ&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="610" y="422.5" width="300" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ทางเจ้าหน้าที่จะติดต่อหลับไป&lt;br&gt;เมื่อมีอุปกรณ์พร้อมให้ยืมใช้งาน&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ทางเจ้าหน้าที่จะติดต่อกลับไป&lt;br&gt;เมื่อมีอุปกรณ์พร้อมให้ยืมใช้งาน&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="610" y="765" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;*การประเมินค่าเสียหายจะมีได้ 2 กรณี คือ &lt;br&gt;1.กรณีผู้ยืมทำเสียหายเองซึ่งจะแจ้งให้ผู้ยืมชำระค่าเสียหายตามที่ตกลงกัน &lt;br&gt;(อาจให้ผู้ยืมมีทางเลือกในการซ่อมแซมอุปกรณ์เอง หรือส่งซ่อมที่ศูนย์บริการ)&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;2.กรณีความเสียหายเกิดจากการใช้งานปกติ&amp;nbsp;หากอุปกรณ์ยังคงใช้งานได้ อาจส่งซ่อมแซมโดยหน่วยงาน &lt;br&gt;หรือหากอุปกรณ์ชำรุดเสียหายจนไม่สามารถใช้งานได้ อาจต้องทำการเปลี่ยนอุปกรณ์ใหม่&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;*การประเมินค่าเสียหายจะมีได้ 2 กรณี คือ &lt;br&gt;1.กรณีผู้ยืมทำเสียหายเองซึ่งจะแจ้งให้ผู้ยืมชำระค่าเสียหายตามที่ตกลงกัน &lt;br&gt;(อาจให้ผู้ยืมมีทางเลือกในการซ่อมแซมอุปกรณ์เอง หรือส่งซ่อมที่ศูนย์บริการ)&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;2.กรณีความเสียหายเกิดจากการใช้งานปกติ&amp;nbsp;หากอุปกรณ์ยังคงใช้งานได้ อาจส่งซ่อมแซมโดยหน่วยงาน &lt;br&gt;หรือหากอุปกรณ์ชำรุดเสียหายจนไม่สามารถใช้งานได้ อาจต้องทำการเปลี่ยนอุปกรณ์ใหม่&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1120" y="700" width="830" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gq7pANQXskhUeCgIyRuJ-22" target="Gq7pANQXskhUeCgIyRuJ-25">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gq7pANQXskhUeCgIyRuJ-22" target="Gq7pANQXskhUeCgIyRuJ-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-22" value="ทำการจดบึนทึกการคืนลงสมุดบันทึกและนำอุปกรณ์ไปเก็บที่ศูนย์" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-22" value="ทำการจดบึนทึกการคืนลงสมุดบันทึกและนำอุปกรณ์ไปเก็บที่ศูนย์" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1200" y="500" width="240" height="68.26" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-25" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;สิ้นสุด&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-25" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;สิ้นสุด&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1272.49" y="610" width="95" height="40" as="geometry" />
         </mxCell>
       </root>
