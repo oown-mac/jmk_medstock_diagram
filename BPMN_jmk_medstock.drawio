@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="Page-1" id="H4ZAF5f8akeHymJjVKr4">
-    <mxGraphModel dx="3520" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1760" dy="-152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -392,7 +392,7 @@
             <mxPoint x="1900" y="2190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnkoJn7xPO1Y4HEjq3Kq-93" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;BPMN ภาพรวมของแอปพลิเคชันระบบยืม-คืนอุปกรณ์ทางการแพทย์แบบเดิม&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="1">
+        <mxCell id="xnkoJn7xPO1Y4HEjq3Kq-93" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;BPMN ภาพรวมของแอปพลิเคชันระบบยืม-คืนอุปกรณ์ทางการแพทย์&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="1">
           <mxGeometry x="122" y="1300" width="798" height="30" as="geometry" />
         </mxCell>
       </root>
