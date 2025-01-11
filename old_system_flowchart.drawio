@@ -131,7 +131,7 @@
           <mxGeometry x="610" y="765" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Gq7pANQXskhUeCgIyRuJ-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;*การประเมินค่าเสียหายจะมีได้ 2 กรณี คือ &lt;br&gt;1.กรณีผู้ยืมทำเสียหายเองซึ่งจะแจ้งให้ผู้ยืมชำระค่าเสียหายตามที่ตกลงกัน &lt;br&gt;(อาจให้ผู้ยืมมีทางเลือกในการซ่อมแซมอุปกรณ์เอง หรือส่งซ่อมที่ศูนย์บริการ)&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;2.กรณีความเสียหายเกิดจากการใช้งานปกติ&amp;nbsp;หากอุปกรณ์ยังคงใช้งานได้ อาจส่งซ่อมแซมโดยหน่วยงาน &lt;br&gt;หรือหากอุปกรณ์ชำรุดเสียหายจนไม่สามารถใช้งานได้ อาจต้องทำการเปลี่ยนอุปกรณ์ใหม่&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1080" y="1330" width="830" height="120" as="geometry" />
+          <mxGeometry x="1120" y="700" width="830" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Gq7pANQXskhUeCgIyRuJ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gq7pANQXskhUeCgIyRuJ-22" target="Gq7pANQXskhUeCgIyRuJ-25">
           <mxGeometry relative="1" as="geometry" />
