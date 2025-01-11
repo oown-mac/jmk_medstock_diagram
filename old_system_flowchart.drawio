@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1833" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3937" pageHeight="3937" math="0" shadow="0">
+    <mxGraphModel dx="3667" dy="1840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3937" pageHeight="3937" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -148,7 +148,7 @@
         <mxCell id="ooGsEa1KeA06Juk-TKVE-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ooGsEa1KeA06Juk-TKVE-8" target="ooGsEa1KeA06Juk-TKVE-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ooGsEa1KeA06Juk-TKVE-13" value="ไม่ต้องการ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ooGsEa1KeA06Juk-TKVE-11">
+        <mxCell id="ooGsEa1KeA06Juk-TKVE-13" value="ไม่ประสงค์" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ooGsEa1KeA06Juk-TKVE-11">
           <mxGeometry x="-0.1651" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -161,7 +161,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ooGsEa1KeA06Juk-TKVE-8" value="ผู้ยืมต้องการที่จะต่อสัญญา&lt;br&gt;การยืมอุปกรณ์หรือไม่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ooGsEa1KeA06Juk-TKVE-8" value="ผู้ยืมประสงค์ที่จะต่อสัญญา&lt;br&gt;การยืมอุปกรณ์หรือไม่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2010" y="200" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ooGsEa1KeA06Juk-TKVE-9" value="ผู้ยืมสามารถนำอุปกรณ์ไปคืนเจ้าหน้าที่ ณ รพ.สต. จอมหมอกแก้ว" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
