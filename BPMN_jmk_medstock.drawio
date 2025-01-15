@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="Page-1" id="H4ZAF5f8akeHymJjVKr4">
-    <mxGraphModel dx="1219" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3937" pageHeight="3937" math="0" shadow="0">
+    <mxGraphModel dx="5500" dy="2760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3937" pageHeight="3937" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -603,14 +603,10 @@
         <mxCell id="kODkvWjg3QdJg3qr7oLH-42" value="" style="html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;strokeWidth=2;" parent="UNPvk4WgU8sLlLBRP6UM-8" vertex="1">
           <mxGeometry x="931" y="275" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kODkvWjg3QdJg3qr7oLH-43" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endFill=0;startFill=0;endSize=6;startSize=6;dashed=1;dashPattern=1 4;endArrow=none;startArrow=none;rounded=1;strokeWidth=2;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;curved=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="UNPvk4WgU8sLlLBRP6UM-8" source="9oprziLc8tJ44fG1MgAf-6" target="kODkvWjg3QdJg3qr7oLH-42" edge="1">
+        <mxCell id="kODkvWjg3QdJg3qr7oLH-43" value="" style="fontSize=12;html=1;endFill=0;startFill=0;endSize=6;startSize=6;dashed=1;dashPattern=1 4;endArrow=none;startArrow=none;rounded=1;strokeWidth=2;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="UNPvk4WgU8sLlLBRP6UM-8" source="9oprziLc8tJ44fG1MgAf-6" target="kODkvWjg3QdJg3qr7oLH-42" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1061" y="289.3299999999999" as="sourcePoint" />
             <mxPoint x="1221" y="289.3299999999999" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="910" y="195" />
-              <mxPoint x="910" y="290" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kODkvWjg3QdJg3qr7oLH-44" value="&lt;font face=&quot;Sarabun&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;u&gt;&lt;b&gt;*หมายเหตุ&amp;nbsp;ถ้าเป็นอาสาสมัครจะไม่เห็นแถบเมนู &quot;รายการคำร้องขอยืมอุปกรณ์&quot;&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" parent="UNPvk4WgU8sLlLBRP6UM-8" vertex="1">
@@ -639,7 +635,7 @@
             <mxPoint x="220" y="80.07999999999993" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kODkvWjg3QdJg3qr7oLH-41" value="&lt;font face=&quot;Sarabun&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ลงทะเบีน&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;strokeWidth=2;" parent="UNPvk4WgU8sLlLBRP6UM-13" vertex="1">
+        <mxCell id="kODkvWjg3QdJg3qr7oLH-41" value="&lt;font face=&quot;Sarabun&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ลงทะเบียน&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;strokeWidth=2;" parent="UNPvk4WgU8sLlLBRP6UM-13" vertex="1">
           <mxGeometry x="220" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kODkvWjg3QdJg3qr7oLH-45" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;strokeWidth=2;" parent="UNPvk4WgU8sLlLBRP6UM-13" vertex="1">
