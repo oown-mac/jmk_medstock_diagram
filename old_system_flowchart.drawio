@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="978" dy="527" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3937" pageHeight="3937" math="0" shadow="0">
+    <mxGraphModel dx="1884" dy="938" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3937" pageHeight="3937" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -63,7 +63,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w91RFXMXkyerHTZb2JvK-10" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;&lt;span&gt;เจ้าหน้าที่ทำการตรวจสอบอุปกรณ์ที่&lt;br&gt;ศูนย์กายอุปกรณ์ว่ามีอุปกรณ์ที่&lt;br&gt;ต้องการใช้งานหรือไม่&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="w91RFXMXkyerHTZb2JvK-10" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;&lt;span&gt;เจ้าหน้าที่ทำการตรวจสอบอุปกรณ์ที่&lt;br&gt;ศูนย์ว่ามีอุปกรณ์ที่&lt;br&gt;ต้องการใช้งานหรือไม่&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="130.02" y="730" width="355" height="150" as="geometry" />
         </mxCell>
         <mxCell id="w91RFXMXkyerHTZb2JvK-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-11" target="w91RFXMXkyerHTZb2JvK-12" edge="1">
