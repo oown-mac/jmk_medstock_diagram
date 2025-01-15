@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="Page-1" id="H4ZAF5f8akeHymJjVKr4">
-    <mxGraphModel dx="1571" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3937" pageHeight="3937" math="0" shadow="0">
+    <mxGraphModel dx="2200" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3937" pageHeight="3937" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -495,12 +495,6 @@
         <mxCell id="kODkvWjg3QdJg3qr7oLH-14" value="" style="shape=datastore;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=2;" parent="UNPvk4WgU8sLlLBRP6UM-7" vertex="1">
           <mxGeometry x="1421" y="90" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kODkvWjg3QdJg3qr7oLH-18" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endFill=0;startFill=0;endSize=6;startSize=6;dashed=1;dashPattern=1 4;endArrow=openThin;startArrow=none;rounded=1;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="UNPvk4WgU8sLlLBRP6UM-7" target="9oprziLc8tJ44fG1MgAf-14" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1602" y="150" as="sourcePoint" />
-            <mxPoint x="1762" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kODkvWjg3QdJg3qr7oLH-28" value="&lt;font face=&quot;Sarabun&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ฐานข้อมูลอุปกรณ์&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" parent="UNPvk4WgU8sLlLBRP6UM-7" vertex="1">
           <mxGeometry x="816" y="150" width="130" height="30" as="geometry" />
         </mxCell>
@@ -785,6 +779,16 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1511" y="430" as="sourcePoint" />
             <mxPoint x="1511" y="273" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kODkvWjg3QdJg3qr7oLH-18" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endFill=0;startFill=0;endSize=6;startSize=6;dashed=1;dashPattern=1 4;endArrow=openThin;startArrow=none;rounded=1;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.019;exitY=0.605;exitDx=0;exitDy=0;exitPerimeter=0;" parent="UNPvk4WgU8sLlLBRP6UM-5" target="9oprziLc8tJ44fG1MgAf-14" edge="1" source="kODkvWjg3QdJg3qr7oLH-14">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1632" y="480" as="sourcePoint" />
+            <mxPoint x="1792" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1553" y="470" />
+              <mxPoint x="1789" y="470" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
