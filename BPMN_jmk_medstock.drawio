@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="Page-1" id="H4ZAF5f8akeHymJjVKr4">
-    <mxGraphModel dx="3667" dy="1840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3937" pageHeight="3937" math="0" shadow="0">
+    <mxGraphModel dx="1571" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3937" pageHeight="3937" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -598,7 +598,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kODkvWjg3QdJg3qr7oLH-37" value="&lt;font face=&quot;Sarabun&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ต้องมีข้อมูลสมาชิก&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Sarabun&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ในฐานข้อมูล&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" parent="UNPvk4WgU8sLlLBRP6UM-8" vertex="1">
-          <mxGeometry x="521" y="100" width="130" height="50" as="geometry" />
+          <mxGeometry x="430" y="100" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kODkvWjg3QdJg3qr7oLH-42" value="" style="html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;strokeWidth=2;" parent="UNPvk4WgU8sLlLBRP6UM-8" vertex="1">
           <mxGeometry x="931" y="275" width="50" height="30" as="geometry" />
