@@ -1,91 +1,91 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1884" dy="938" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3937" pageHeight="3937" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="952" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3937" pageHeight="3937" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="w91RFXMXkyerHTZb2JvK-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-3" target="w91RFXMXkyerHTZb2JvK-6" edge="1">
+        <mxCell id="w91RFXMXkyerHTZb2JvK-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-3" target="w91RFXMXkyerHTZb2JvK-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w91RFXMXkyerHTZb2JvK-3" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;&lt;span&gt;เริ่ม&lt;/span&gt;&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontSize=16;spacing=2;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="w91RFXMXkyerHTZb2JvK-3" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot;&gt;&lt;span&gt;เริ่ม&lt;/span&gt;&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontSize=16;spacing=2;strokeWidth=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="260.02" y="100" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="w91RFXMXkyerHTZb2JvK-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-6" target="w91RFXMXkyerHTZb2JvK-7" edge="1">
+        <mxCell id="w91RFXMXkyerHTZb2JvK-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-6" target="w91RFXMXkyerHTZb2JvK-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w91RFXMXkyerHTZb2JvK-6" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;&lt;span&gt;ผู้ยืมติดต่อขอยืมอุปกรณ์ที่&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;&lt;span&gt;รพ.สต.จอมหมอกแก้ว&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;spacing=2;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="w91RFXMXkyerHTZb2JvK-6" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot;&gt;&lt;span&gt;ผู้ยืมติดต่อขอยืมอุปกรณ์ที่&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot;&gt;&lt;span&gt;รพ.สต.จอมหมอกแก้ว&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;spacing=2;strokeWidth=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="194.36999999999998" y="180" width="226.25" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="w91RFXMXkyerHTZb2JvK-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-7" target="w91RFXMXkyerHTZb2JvK-8" edge="1">
+        <mxCell id="w91RFXMXkyerHTZb2JvK-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-7" target="w91RFXMXkyerHTZb2JvK-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w91RFXMXkyerHTZb2JvK-7" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;&lt;span&gt;ผู้ยืมเขียนใบคำร้องขอยืมพร้อมแนบ&lt;br&gt;หลักฐานการยืม&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;&lt;span&gt;(สำเนาประชาชนผู้ป่วยและสำเนาบัตรประชาชนผู้ยืม)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;spacing=2;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="w91RFXMXkyerHTZb2JvK-7" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot;&gt;&lt;span&gt;ผู้ยืมเขียนใบคำร้องขอยืมพร้อมแนบ&lt;br&gt;หลักฐานการยืม&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot;&gt;&lt;span&gt;(สำเนาประชาชนผู้ป่วยและสำเนาบัตรประชาชนผู้ยืม)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;spacing=2;strokeWidth=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="156.86999999999998" y="290" width="301.25" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="w91RFXMXkyerHTZb2JvK-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-8" target="w91RFXMXkyerHTZb2JvK-9" edge="1">
+        <mxCell id="w91RFXMXkyerHTZb2JvK-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-8" target="w91RFXMXkyerHTZb2JvK-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-11" value="&lt;span&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;ผ่าน&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;spacing=2;fontStyle=0" parent="w91RFXMXkyerHTZb2JvK-18" vertex="1" connectable="0">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-11" value="&lt;span&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot;&gt;ผ่าน&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;spacing=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="w91RFXMXkyerHTZb2JvK-18" vertex="1" connectable="0">
           <mxGeometry x="-0.4664" y="1" relative="1" as="geometry">
             <mxPoint x="-1" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-8" target="Gq7pANQXskhUeCgIyRuJ-8" edge="1">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-8" target="Gq7pANQXskhUeCgIyRuJ-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-10" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;&lt;span&gt;ไม่ผ่าน&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;spacing=2;fontStyle=0" parent="Gq7pANQXskhUeCgIyRuJ-9" vertex="1" connectable="0">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-10" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot;&gt;&lt;span&gt;ไม่ผ่าน&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;spacing=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="Gq7pANQXskhUeCgIyRuJ-9" vertex="1" connectable="0">
           <mxGeometry x="-0.0209" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w91RFXMXkyerHTZb2JvK-8" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;&lt;span&gt;เจ้าหน้าที่ทำการตรวจประเมินถึง&lt;br&gt;ความเหมาะสมและสภาพอาการ&lt;br&gt;ของผู้ป่วยก่อนการยืม&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="w91RFXMXkyerHTZb2JvK-8" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot;&gt;&lt;span&gt;เจ้าหน้าที่ทำการตรวจประเมินถึง&lt;br&gt;ความเหมาะสมและสภาพอาการ&lt;br&gt;ของผู้ป่วยก่อนการยืม&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="130" y="420" width="355" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="w91RFXMXkyerHTZb2JvK-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-9" target="w91RFXMXkyerHTZb2JvK-10" edge="1">
+        <mxCell id="w91RFXMXkyerHTZb2JvK-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-9" target="w91RFXMXkyerHTZb2JvK-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w91RFXMXkyerHTZb2JvK-9" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;&lt;span&gt;เจ้าหน้าที่เขียนลงทะเบียนไว้ในสมุดจด&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="w91RFXMXkyerHTZb2JvK-9" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot;&gt;&lt;span&gt;เจ้าหน้าที่เขียนลงทะเบียนไว้ในสมุดจด&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="235.02" y="620" width="145" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="w91RFXMXkyerHTZb2JvK-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-10" target="w91RFXMXkyerHTZb2JvK-11" edge="1">
+        <mxCell id="w91RFXMXkyerHTZb2JvK-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-10" target="w91RFXMXkyerHTZb2JvK-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-12" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;&lt;span&gt;มีอุปกรณ์&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;spacing=2;fontStyle=0" parent="w91RFXMXkyerHTZb2JvK-20" vertex="1" connectable="0">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-12" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot;&gt;&lt;span&gt;มีอุปกรณ์&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;spacing=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="w91RFXMXkyerHTZb2JvK-20" vertex="1" connectable="0">
           <mxGeometry x="-0.2067" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-10" target="Gq7pANQXskhUeCgIyRuJ-13" edge="1">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-10" target="Gq7pANQXskhUeCgIyRuJ-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-16" value="&lt;span&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;ไม่มีอุปกรณ์&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;spacing=2;fontStyle=0" parent="Gq7pANQXskhUeCgIyRuJ-14" vertex="1" connectable="0">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-16" value="&lt;span&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot;&gt;ไม่มีอุปกรณ์&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;spacing=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="Gq7pANQXskhUeCgIyRuJ-14" vertex="1" connectable="0">
           <mxGeometry x="-0.0784" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w91RFXMXkyerHTZb2JvK-10" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;&lt;span&gt;เจ้าหน้าที่ทำการตรวจสอบอุปกรณ์ที่&lt;br&gt;ศูนย์ว่ามีอุปกรณ์ที่&lt;br&gt;ต้องการใช้งานหรือไม่&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="w91RFXMXkyerHTZb2JvK-10" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot;&gt;&lt;span&gt;เจ้าหน้าที่ทำการตรวจสอบอุปกรณ์ที่&lt;br&gt;ศูนย์ว่ามีอุปกรณ์ที่&lt;br&gt;ต้องการใช้งานหรือไม่&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="130.02" y="730" width="355" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="w91RFXMXkyerHTZb2JvK-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-11" target="w91RFXMXkyerHTZb2JvK-12" edge="1">
+        <mxCell id="w91RFXMXkyerHTZb2JvK-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-11" target="w91RFXMXkyerHTZb2JvK-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w91RFXMXkyerHTZb2JvK-11" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;&lt;span&gt;เจ้าหน้าที่เซ็นอนุมัติการยืมอุปกรณ์&lt;br&gt;ซึ่งผู้อนุมัติจะต้องเป็นตำแหน่ง &lt;br&gt;พยาบาลวิชาชีพ&lt;br&gt;หรือ นักวิชาการสาธารณสุข เท่านั้น&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;spacing=2;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="156.89" y="960" width="301.25" height="100" as="geometry" />
+        <mxCell id="w91RFXMXkyerHTZb2JvK-11" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot;&gt;&lt;span&gt;เจ้าหน้าที่เซ็นอนุมัติการยืมอุปกรณ์&lt;br&gt;ซึ่งผู้อนุมัติจะต้องเป็นตำแหน่ง &lt;br&gt;พยาบาลวิชาชีพ&lt;br&gt;หรือ นักวิชาการสาธารณสุข เท่านั้น&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;spacing=2;strokeWidth=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="156.89" y="1020" width="301.25" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="w91RFXMXkyerHTZb2JvK-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-12" target="w91RFXMXkyerHTZb2JvK-14" edge="1">
+        <mxCell id="w91RFXMXkyerHTZb2JvK-22" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w91RFXMXkyerHTZb2JvK-12" target="w91RFXMXkyerHTZb2JvK-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w91RFXMXkyerHTZb2JvK-12" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;&lt;span&gt;ผู้ยืมจะต้องติดต่อ นัดวันและเวลากับเจ้าหน้าที่&lt;br&gt;ให้มารับอุปกรณ์ด้วยตนเอง ณ &lt;br&gt;รพ.สต. จอมหมอกแก้ว (*)&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;spacing=2;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="156.86999999999998" y="1110" width="301.25" height="100" as="geometry" />
+        <mxCell id="w91RFXMXkyerHTZb2JvK-12" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot;&gt;&lt;span&gt;ผู้ยืมจะต้องติดต่อ นัดวันและเวลากับเจ้าหน้าที่&lt;br&gt;ให้มารับอุปกรณ์ด้วยตนเอง ณ &lt;br&gt;รพ.สต. จอมหมอกแก้ว (*)&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;spacing=2;strokeWidth=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="156.86999999999998" y="1170" width="301.25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="w91RFXMXkyerHTZb2JvK-13" value="&lt;span style=&quot;font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot; style=&quot;&quot;&gt;&lt;b&gt;(*) สามารถยืมได้สูงสุด 3 เดือน หากต้องการยืมต่อ ผู้ยืมจะต้องทำการต่อสัญญา โดยการมาลงทะเบียนและประเมินผู้ป่วยใหม่อีกครั้ง&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="110" y="1350" width="520" height="50" as="geometry" />
+          <mxGeometry x="110" y="1420" width="520" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="w91RFXMXkyerHTZb2JvK-14" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;&lt;span&gt;สิ้นสุด&lt;/span&gt;&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="255.52" y="1260" width="104" height="40" as="geometry" />
+        <mxCell id="w91RFXMXkyerHTZb2JvK-14" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot;&gt;&lt;span&gt;สิ้นสุด&lt;/span&gt;&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="255.52" y="1350" width="104" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w91RFXMXkyerHTZb2JvK-23" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;&lt;b style=&quot;&quot;&gt;กรณีที่ 1 ขั้นตอน &quot;การยืม&quot; อุปกรณ์กับ&lt;br&gt;ศูนย์กายอุปกรณ์ทางการแพทย์ รพ.สต จอมหมอกแก้ว&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="90" y="30" width="427.51" height="50" as="geometry" />
+          <mxGeometry x="420" y="30" width="427.51" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Gq7pANQXskhUeCgIyRuJ-0" value="กรณีที่ 2 ขั้นตอน &quot;การคืน&quot; อุปกรณ์กับ&lt;br&gt;ศูนย์กายอุปกรณ์ทางการแพทย์ รพ.สต จอมหมอกแก้ว" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1100" y="50" width="440" height="40" as="geometry" />
@@ -115,7 +115,7 @@
         </mxCell>
         <mxCell id="Gq7pANQXskhUeCgIyRuJ-24" value="อุปกรณ์สมบูรณ์" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="Gq7pANQXskhUeCgIyRuJ-23" vertex="1" connectable="0">
           <mxGeometry x="-0.324" relative="1" as="geometry">
-            <mxPoint y="4" as="offset" />
+            <mxPoint y="45" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Gq7pANQXskhUeCgIyRuJ-4" value="เจ้าหน้าที่ตรวจสอบอุปกรณ์&lt;br&gt;ก่อนเก็บเข้าศูนย์" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -124,26 +124,26 @@
         <mxCell id="Gq7pANQXskhUeCgIyRuJ-7" value="เจ้าหน้าที่ตรวจสอบความเสียหาย&lt;br&gt;จดบันทึกและแจ้งผู้ยืม&lt;br&gt;ถึงความเสียหายที่เกิดขึ้น (*)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1570" y="338.75" width="240" height="67.5" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-8" value="&lt;font face=&quot;Sarabun&quot;&gt;&lt;span&gt;เจ้าหน้าที่แนะนำวิธีการฟื้นฟูที่เหมาะสมแก่สภาพผู้ป่วยไปฝึกกายภาพด้วยตนเองที่บ้าน&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Sarabun&quot;&gt;&lt;span&gt;จากนั้นทำการติดตามเพื่อประเมินซ้ำ&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-8" value="&lt;font&gt;&lt;span&gt;เจ้าหน้าที่แนะนำวิธีการฟื้นฟูที่เหมาะสมแก่สภาพผู้ป่วยไปฝึกกายภาพด้วยตนเองที่บ้าน&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;span&gt;จากนั้นทำการติดตามเพื่อประเมินซ้ำ&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="610" y="422.5" width="300" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7pANQXskhUeCgIyRuJ-13" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;&lt;span&gt;ทางเจ้าหน้าที่จะติดต่อกลับไป&lt;br&gt;เมื่อมีอุปกรณ์พร้อมให้ยืมใช้งาน&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Gq7pANQXskhUeCgIyRuJ-13" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot;&gt;&lt;span&gt;ทางเจ้าหน้าที่จะติดต่อกลับไป&lt;br&gt;เมื่อมีอุปกรณ์พร้อมให้ยืมใช้งาน&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="610" y="765" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Gq7pANQXskhUeCgIyRuJ-21" value="&lt;font&gt;(*) การประเมินค่าเสียหายจะมีได้ 2 กรณี คือ &lt;br&gt;1.กรณีผู้ยืมทำเสียหายเองซึ่งจะแจ้งให้ผู้ยืมชำระค่าเสียหายตามที่ตกลงกัน &lt;br&gt;(อาจให้ผู้ยืมมีทางเลือกในการซ่อมแซมอุปกรณ์เอง หรือส่งซ่อมที่ศูนย์บริการ)&lt;/font&gt;&lt;div&gt;&lt;font&gt;2.กรณีความเสียหายเกิดจากการใช้งานปกติ&amp;nbsp;หากอุปกรณ์ยังคงใช้งานได้ อาจส่งซ่อมแซมโดยหน่วยงาน &lt;br&gt;หรือหากอุปกรณ์ชำรุดเสียหายจนไม่สามารถใช้งานได้ อาจต้องทำการเปลี่ยนอุปกรณ์ใหม่&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1120" y="700" width="670" height="120" as="geometry" />
+          <mxGeometry x="1120" y="820" width="670" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Gq7pANQXskhUeCgIyRuJ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fontSize=16;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gq7pANQXskhUeCgIyRuJ-22" target="Gq7pANQXskhUeCgIyRuJ-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gq7pANQXskhUeCgIyRuJ-22" value="ทำการจดบึนทึกการคืนลงสมุดบันทึกและนำอุปกรณ์ไปเก็บที่ศูนย์" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1200" y="500" width="240" height="68.26" as="geometry" />
+          <mxGeometry x="1200" y="610" width="240" height="68.26" as="geometry" />
         </mxCell>
         <mxCell id="Gq7pANQXskhUeCgIyRuJ-25" value="&lt;font&gt;สิ้นสุด&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fontSize=16;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1272.49" y="610" width="95" height="40" as="geometry" />
+          <mxGeometry x="1272.49" y="740" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ooGsEa1KeA06Juk-TKVE-1" value="&lt;span&gt;(**) หากผู้ยืมประสงค์ต้องการคืนอุปกรณ์ก่อน 3 เดือนต้องแจ้งเจ้าหน้าที่ก่อน ณ วันและเวลาราชการ&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;(&lt;/span&gt;&lt;span&gt;นอกจากนี้ ยังมีการตรวจเยี่ยมผู้ป่วยเป็นประจำทุกเดือน เพื่อประเมินความเหมาะสมในการใช้อุปกรณ์ทางการแพทย์ต่อไป&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;) สามารถขอเลื่อนการส่งคืนอุปกรณ์ได้สูงสุด 30 วันหากผู้ยืมไม่สะดวกมาคืนตามเวลาที่นัดไว้กับเข้าหน้าที่&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1120" y="820" width="760" height="80" as="geometry" />
+          <mxGeometry x="1120" y="950" width="760" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ooGsEa1KeA06Juk-TKVE-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ooGsEa1KeA06Juk-TKVE-8" target="ooGsEa1KeA06Juk-TKVE-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -288,6 +288,95 @@
         </mxCell>
         <mxCell id="ooGsEa1KeA06Juk-TKVE-70" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;สิ้นสุด&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2810.08" y="1725" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8oHP9-eYkvbEatzKrl4-1" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;endArrow=classic;startFill=0;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gq7pANQXskhUeCgIyRuJ-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="485.0000000000001" as="sourcePoint" />
+            <mxPoint x="308" y="1310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="970" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8oHP9-eYkvbEatzKrl4-5" value="&lt;font&gt;กระบวนการจัดหา&lt;/font&gt;&lt;div&gt;&lt;font&gt;อุปกรณ์ที่รอคอย&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="900" width="355" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8oHP9-eYkvbEatzKrl4-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;elbow=vertical;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gq7pANQXskhUeCgIyRuJ-13" target="Y8oHP9-eYkvbEatzKrl4-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="318" y="700" as="sourcePoint" />
+            <mxPoint x="750" y="890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="845" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8oHP9-eYkvbEatzKrl4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y8oHP9-eYkvbEatzKrl4-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="318" y="700" as="sourcePoint" />
+            <mxPoint x="308" y="975" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8oHP9-eYkvbEatzKrl4-15" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot;&gt;สำเร็จ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fontSize=16;" vertex="1" connectable="0" parent="Y8oHP9-eYkvbEatzKrl4-13">
+          <mxGeometry x="-0.5645" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8oHP9-eYkvbEatzKrl4-14" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;startFill=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y8oHP9-eYkvbEatzKrl4-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="328" y="710" as="sourcePoint" />
+            <mxPoint x="748" y="1310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8oHP9-eYkvbEatzKrl4-16" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot;&gt;ไม่สำเร็จ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fontSize=16;" vertex="1" connectable="0" parent="Y8oHP9-eYkvbEatzKrl4-14">
+          <mxGeometry x="-0.7275" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8oHP9-eYkvbEatzKrl4-17" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=2;fontSize=16;strokeWidth=2;fontStyle=0;edgeStyle=elbowEdgeStyle;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;elbow=vertical;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y8oHP9-eYkvbEatzKrl4-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1690" y="690" as="sourcePoint" />
+            <mxPoint x="1320" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1510" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8oHP9-eYkvbEatzKrl4-18" value="กระบวนการ&lt;div&gt;จัดการความเสียหาย&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1570" y="440" width="233.76" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8oHP9-eYkvbEatzKrl4-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fontSize=16;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gq7pANQXskhUeCgIyRuJ-7" target="Y8oHP9-eYkvbEatzKrl4-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1330" y="300" as="sourcePoint" />
+            <mxPoint x="1330" y="333" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8oHP9-eYkvbEatzKrl4-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fontSize=16;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y8oHP9-eYkvbEatzKrl4-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1340" y="310" as="sourcePoint" />
+            <mxPoint x="1320" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8oHP9-eYkvbEatzKrl4-24" value="สำเร็จ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fontSize=16;" vertex="1" connectable="0" parent="Y8oHP9-eYkvbEatzKrl4-20">
+          <mxGeometry x="-0.4384" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8oHP9-eYkvbEatzKrl4-21" value="แทงจำหน่าย" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1600" y="610" width="170" height="68.26" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8oHP9-eYkvbEatzKrl4-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fontSize=16;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.512;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y8oHP9-eYkvbEatzKrl4-18" target="Y8oHP9-eYkvbEatzKrl4-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1700" y="416" as="sourcePoint" />
+            <mxPoint x="1687" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1687" y="581" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8oHP9-eYkvbEatzKrl4-25" value="ไม่สำเร็จ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fontSize=16;" vertex="1" connectable="0" parent="Y8oHP9-eYkvbEatzKrl4-22">
+          <mxGeometry x="-0.4574" y="-1" relative="1" as="geometry">
+            <mxPoint y="11" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
